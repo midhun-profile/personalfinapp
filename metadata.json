@@ -1,0 +1,6 @@
+{
+  "name": "Personal Wallet",
+  "description": "A fully functional offline-first Personal Finance Tracker with Google Sheets cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

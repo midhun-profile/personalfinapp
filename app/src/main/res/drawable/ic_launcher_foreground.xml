@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Shadow Gradient / Drop Shadow -->
+    <path
+        android:pathData="M24,36 L84,36 A6,6 0,0,1 90,42 L90,78 A6,6 0,0,1 84,84 L24,84 A6,6 0,0,1 18,78 L18,42 A6,6 0,0,1 24,36 z"
+        android:fillColor="#15000000" />
+        
+    <!-- Main Card Body in Slate White / Cyan Accent -->
+    <path
+        android:pathData="M26,38 L82,38 A6,6 0,0,1 88,44 L88,76 A6,6 0,0,1 82,82 L26,82 A6,6 0,0,1 20,76 L20,44 A6,6 0,0,1 26,38 z"
+        android:fillColor="#FFFFFF" />
+        
+    <!-- Top Card Strip representing card overlap -->
+    <path
+        android:pathData="M32,28 L76,28 A4,4 0,0,1 80,32 L80,38 L28,38 L28,32 A4,4 0,0,1 32,28 z"
+        android:fillColor="#06B6D4" />
+
+    <!-- Wallet Strap flap -->
+    <path
+        android:pathData="M70,52 L88,52 A3,3 0,0,1 91,55 L91,65 A3,3 0,0,1 88,68 L70,68 A3,3 0,0,1 67,65 L67,55 A3,3 0,0,1 70,52 z"
+        android:fillColor="#6366F1" />
+
+    <!-- Metal Gold Emblem on Strap -->
+    <path
+        android:pathData="M75,57 A3,3 0,1,1 74.99,57 z"
+        android:fillColor="#F59E0B" />
+        
+    <!-- Decorative Trend Line on Card -->
+    <path
+        android:pathData="M30,70 L42,58 L54,66 L72,48"
+        android:strokeColor="#10B981"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+        
+</vector>
